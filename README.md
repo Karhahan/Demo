@@ -1,3 +1,3 @@
 # Demo
-This is my first repo
-author karan
+This is my first repo </br>
+Author - Karan Singh
