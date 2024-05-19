@@ -1,3 +1,3 @@
 # Demo
 This is my first repo </br>
-Author - Karan Singh(Studet)
+Author - Karan Singh(Student)
